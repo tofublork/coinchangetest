@@ -30,25 +30,6 @@ public int getChangeamt(){
     return this.changeamt;
     }
 
-public int getoneDollar(){
-    return this.oneDollar;
-    }
-
-public int getfiftyCent(){
-    return this.fiftyCent;
-    }
-
-public int gettwentyCent(){
-    return this.twentyCent;
-    }
-
-public int gettenCent(){
-    return this.tenCent;
-    }
-
-public int getfiveCent(){
-    return this.fiveCent;
-    }
 
 //Setter methods
 public void setName(String name){
